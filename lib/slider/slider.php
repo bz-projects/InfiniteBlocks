@@ -1,0 +1,4 @@
+<?php
+/*
+    Block Package: Slider
+*/
